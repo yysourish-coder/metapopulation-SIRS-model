@@ -1,0 +1,1 @@
+Using a SIRS metapopulation model, this study compares line and fully connected network topologies across movement-strength sweeps, and quantifies synchronization using peak-time standard deviation and peak-time spread, and generates relevant figures helping to portray key findings.
